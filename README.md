@@ -1,5 +1,7 @@
 # via-config-charybdis\_nano\_3x5
 
+[qmk firmware](https://github.com/Bastardkb/qmk_userspace/releases/tag/latest)
+
 ## Build
 
 ### v1
