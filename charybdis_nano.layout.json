@@ -207,7 +207,7 @@
       "CUSTOM(4)",
       "QK_CLEAR_EEPROM",
       "RESET",
-      "KC_MS_BTN3",
+      "KC_MS_BTN2",
       "KC_NO",
       "KC_MS_BTN1",
       "KC_NO",
